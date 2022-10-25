@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>
+			OWL Help - Western University
+		</title>
+		<meta content="Online technical support and help documents for OWL (Sakai) the online learning management system (LMS) for Western University." name="description"/>
+		
+		
+		<meta content="0b0d9a22ac1d703e15c58b43148e9e0f" name="id"/>
+		<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+		<!--[if IE 7 ]>
+		<html class="ie7">
+			<![endif]-->
+			<!--[if IE 8 ]>
+			<html class="ie8">
+				<![endif]-->
+				<!--[if IE 9 ]>
+				<html class="ie9">
+					<![endif]-->
+					<!--[if (gt IE 9)|!(IE)]>
+					<!-->
+					<!--
+					
+					
+					<![endif]-->
+					<link href="https://www.uwo.ca/web_standards/css/style-responsive-2017.css" rel="stylesheet"/>
+					<link href="https://www.uwo.ca/web_standards/css/standard-menu-2017.css" rel="stylesheet"/>
+					<link href="https://www.uwo.ca/web_standards/css/rubik-font.css" rel="stylesheet"/>
+					<link href="https://www.uwo.ca/web_standards/css/roboto-font.css" rel="stylesheet"/>
+					
+					
+					
+					
+<link href="https://owlhelp.uwo.ca/index.html" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="https://owlhelp.uwo.ca/index.html" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="" property="og:title"/>
+<meta content="Western University, in vibrant London, Ontario, delivers an academic and student experience second to none." property="og:description"/>
+<meta content="https://www.uwo.ca/web_standards/img/logo/western-crest-facebook-og1.jpg" property="og:image"/>
+
+<!-- Twitter Meta Tags -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Western University, in vibrant London, Ontario, delivers an academic and student experience second to none." name="twitter:description"/>
+<meta content="" name="twitter:title"/>
+<meta content="@WesternU" name="twitter:site"/>
+<meta content="https://www.uwo.ca/web_standards/img/logo/western-crest-facebook-og1.jpg" name="twitter:image"/>
+<meta content="@WesternU" name="twitter:creator"/>
+
+					<link href="https://www.uwo.ca/web_standards/img/logo/apple-icon.png" rel="apple-touch-icon"/>
+					<link href="https://www.uwo.ca/web_standards/img/logo/favicon.ico" rel="shortcut icon"/>
+					<script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/jquery-3.2.1.min.js" type="text/javascript"></script>
+					<script src="https://www.uwo.ca/web_standards/js/respond.js"></script>
+					<!--min/max-width media query polyfill-->
+					<script src="https://www.uwo.ca/web_standards/js/imgSizer.js"></script>
+					<!--image size fix for IE-->
+					
+					<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($){
+$('img').each(function()
+{ $(this).removeAttr('width'); $(this).removeAttr('height'); }
+);
+});
+</script>
+					
+					
+					<!-- Global WesternU site tag (gtag.js) - Google Analytics -->
+					<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-130493133-1" type="text/javascript"></script>
+					<script type="text/javascript">
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag()
+                    {dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'UA-130493133-1');
+                    </script>
+                    <!-- Google Tag Manager Western Global -->
+<script>// <![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSQ7S5');
+// ]]></script>
+<!-- End Google Tag Manager Western Global --> 
+				</head>
+				<body>
+				    <!-- Google Tag Manager (noscript) Western Global -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NSQ7S5" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) Western Global -->
+				    <a class="offscreen" href="#skip">Skip to Content</a>
+					<!-- Ribbon include begins -->
+					<script src="https://www.uwo.ca/web_standards/js/rbn/rbn-standardpage.js" type="text/javascript"></script>
+					
+					<!-- Ribbon include ends -->
+					<div id="masthead">
+						<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" height="80px" width="900px" xmlns:xlink="http://www.w3.org/1999/xlink">&#225;
+<title id="title">OWL Help</title>
+<a style="text-decoration: none;" xlink:href="https://owlhelp.uwo.ca/"> <text fill="rgb(0, 0, 0)" kerning="auto" x="3px" y="57px"> <tspan fill="#561b8d" font-family="Benton Sans, Arial, sans-serif;" font-size="36px">OWL Help </tspan></text> </a> </svg>
+						<div class="lists-select"><label class="hidden" for="popular-list">Popular Links</label><select class="fields" id="popular-list" name="popular-list" onchange="location.href=this.options[this.selectedIndex].value;">
+<option selected="selected" value="#">Popular Links</option>
+<option value="https://www.uwo.ca/directory.html">Directory</option>
+<option value="https://myoffice.uwo.ca">Mail</option>
+<option value="https://owl.uwo.ca/portal">OWL</option>
+<option value="https://studentservices.uwo.ca/secure/index.cfm">Student Services</option>
+<option value="https://www.uwo.ca/a-z.html">Websites A - Z</option>
+<option value="http://events.westernu.ca/">Events</option>
+<option value="https://www.lib.uwo.ca/">Libraries</option>
+<option value="https://www.uwo.ca/about/visit/maps.html">Maps</option>
+<option value="https://www.uwo.ca/parking/">Parking</option>
+<option value="https://www.uwo.ca/">WesternU</option>
+</select></div>
+						<block-xhtml><form action="https://www.google.com/cse" class="search" id="cse-search-box">
+<div><input name="cx" type="hidden" value="013266746113315494840:xq6zhlrbloa"/> <input name="as_sitesearch" type="hidden" value="owlhelp.uwo.ca"/> <input aria-label="search" name="q" size="27" type="text"/> <input name="sa" type="submit" value="Go"/></div>
+</form>
+<script src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+</block-xhtml>
+						<div class="clear"></div>
+					</div>
+					<!--end div masthead-->
+					<div class="container_12">
+						<div class="grid_12">
+							<ul class="clearfix" id="menu" style="margin-left: 0;"><li class="large"><a class="drop" href="about/index.html">About</a><div class="dropdown_1column"><div class="col_1"><ul><li><a href="about/navigating_OWL/index.html">Navigating OWL</a></li><li><a href="about/accessibility/index.html">Accessibility</a></li><li><a href="about/whats_new/index.html">What's New?</a></li><li><a href="about/known_issues/index.html">Known Issues</a></li><li><a href="about/policies/index.html">Policies</a></li></ul></div></div></li><li class="large"><a class="drop" href="home/index.html">Basics</a><div class="dropdown_1column"><div class="col_1"><ul><li><a href="home/membership/index.html">Membership</a></li><li><a href="home/worksitesetup/index.html">Worksite Setup</a></li><li><a href="home/preferences/index.html">Preferences</a></li><li><a href="home/account/index.html">Account</a></li><li><a href="home/feedback/index.html">Feedback.uwo.ca</a></li></ul></div></div></li><li class="large"><a class="drop" href="instructors/index.html">Instructors</a><div class="dropdown_1column"><div class="col_1"><ul><li><a href="instructors/getting_started_instructor/index.html">Getting Started</a></li><li><a href="instructors/tools/index.html">OWL Tools</a></li><li><a href="instructors/faq/index.html">FAQ</a></li></ul></div></div></li><li class="large"><a class="drop" href="students/index.html">Students</a><div class="dropdown_1column"><div class="col_1"><ul><li><a href="students/getting_started_student/index.html">Getting Started</a></li><li><a href="students/tools/index.html">OWL Tools</a></li><li><a href="students/faq/index.html">FAQ</a></li></ul></div></div></li><li class="large"><a class="drop" href="contact_us/index.html">Contact Us</a></li><li class="large"><a class="ex-link" href="https://owl.uwo.ca/portal" target="_blank">OWL Login</a></li></ul>
+							<!-- BEGINNING OF MOBILE DROP-DOWN NAV -->
+							<ul id="nav"><li><a class="drop" href="#">MENU</a><ul><li><a href="about/index.html">About</a></li><li><a href="home/index.html">Basics</a></li><li><a href="instructors/index.html">Instructors</a></li><li><a href="students/index.html">Students</a></li><li><a href="contact_us/index.html">Contact Us</a></li><li><a href="https://owl.uwo.ca/portal" target="_blank">OWL Login</a></li></ul><div class="clear"></div></li></ul><div class="clear"></div>
+							<!-- END OF MOBILE NAV -->
+							
+							<div class="flexslider" id="main-slider"><ul class="slides"><li><a href="students/index.html"><img alt="Students collaborating at a table with books and tablets" src="img/group_students_overhead.png"/></a><div class="flex-caption" id="left"><p class="transparent-caption">Welcome Students</p><p class="transparent-subcaption">Get Started with OWL to access your course online</p></div></li><li><a href="instructors/index.html"><img alt="professional using laptop" src="img/instructorbanner.jpg"/></a><div class="flex-caption" id="right"><p class="transparent-caption">Create Course Sites</p><p class="transparent-subcaption">Instructors can now create course sites for the 2021 Academic Term.</p></div></li><li><a href="about/whats_new/index.html"><img alt="What's New in OWL computer screenshot" src="img/whatsnew-owl.png"/></a><div class="flex-caption" id="right"><p class="transparent-caption">Introducing a New Look</p><p class="transparent-subcaption">What's New in OWL </p></div></li></ul></div><div class="clear"></div>
+							
+						</div>
+						<!--end div grid_12-->
+						<div class="clear"></div>
+						<div class="main-content">
+							<div class="grid_9" id="content-left">
+							    <a name="skip"></a>
+							    
+								<div class="left-3column">
+<h2 class="title-bar-grey">For&#160;Instructors</h2>
+<ul class="squarelist" style="margin-left: 40px;">
+<li><a href="instructors/getting_started_instructor/index.html" title="Getting Started - Instructors">Getting Started</a></li>
+<li><a href="home/worksitesetup/index.html#create" title="Worksite Setup">Create a course site</a></li>
+<li><a href="instructors/tools/gradebook/final_grades.html#submit-final-grades" title="Submit Final Grades">Submit final grades</a></li>
+<li style="text-align: right; list-style: none;"><a href="instructors/index.html" title="OWL for Instructors - See More">(More)</a></li>
+</ul>
+</div>
+<div class="center-3column">
+<h2 class="title-bar-grey center-3column">For Students</h2>
+<ul class="squarelist center-3column" style="margin-left: 40px;">
+<li><a href="students/getting_started_student/index.html" title="Getting Started - Students">Getting Started</a></li>
+<li><a href="students/tools/assignments/submit_assignments/index.html" title="Submit an assignment">Submit an assignment</a></li>
+<li><a href="students/tools/testsquizzes/submit_an_assessment/index.html" title="Take a quiz">Take a quiz</a></li>
+<li style="text-align: right; list-style: none;"><a href="students/index.html" title="OWL for Students - See More">(More)</a></li>
+</ul>
+</div>
+<div class="right-3column">
+<h2 class="title-bar-grey right-3column">For Grade Admins</h2>
+<ul class="squarelist right-3column" style="margin-left: 40px;">
+<li><a href="instructors/tools/gradebook/final_grades.html#approve-final-grades" title="Approve final grades">Approve final grades</a></li>
+<li><a href="instructors/tools/gradebook/final_grades.html#override-final-grades" title="Override final grades">Override final grades</a></li>
+<li><a href="home/worksitesetup/index.html#create" title="Create a course site">Create a course site</a></li>
+<li style="text-align: right; list-style: none;"><a href="home/index.html" title="OWL for Grade Admins - See More">(More)</a></li>
+</ul>
+</div>
+								
+								
+								
+								
+								
+								
+								
+							</div>
+							<!--end div content-left-->
+							<div class="grid_3" style="margin:0px; width:277px;">
+								
+							</div>
+							<div class="grid_3" id="sidebar">
+								<h3 class="sidebar-title">About This Site</h3>
+<p>OWL Help is the online documentation for OWL, Western's online learning management system (LMS).</p>
+<p>Please <a href="contact_us/index.html">contact us</a> if you find any errors or missing information.</p>
+<h3 class="sidebar-title">Access OWL</h3>
+<p><a href="https://owl.uwo.ca" rel="noopener noreferrer" target="_blank" title="Go to OWL">Login to OWL</a></p>
+								
+								
+								
+							</div>
+							<!--end div sidebar-->
+						    <div class="clear"></div>
+						</div>
+						<!--end div main-content-->
+					    <!--new social section goes here-->
+                        <br class="clear" style="border-top:1px #ccc solid"/>
+                        	
+					    <div class="social-section" id="grey-bg">
+					        <div class="social-content">
+					            <div class="grid_12">
+					                
+				                </div>
+				                <div class="grid_3 social">
+				                    
+			                    </div>
+			                    <div class="grid_3 social">
+				                    
+			                    </div>
+			                    <div class="grid_3 social">
+				                    
+			                    </div>
+			                    <div class="grid_3 social">
+				                    
+			                    </div>
+				                <div class="clear"></div>
+			                </div><!--end div social-content-->
+		                </div><!--end div social-section-->
+		                
+						<div class="grid_12" id="footer">
+							<div class="contact-content">
+								<div class="grid_5">
+									<p class="copyright">&#169; 1878 - <script>document.write(new Date().getFullYear())</script> Western University</p><br/><p class="footercontact"><a href="https://wts.uwo.ca" target="_blank">Western Technology Services</a><br/>1393 Western Road<br/>
+                    London, Ontario, Canada, N6A 3K7<br/>Tel: 519-661-3800<br/><a href="https://www.uwo.ca/vpfinance/legalcounsel/privacy/" target="_blank">Privacy</a> | 
+                <a href="https://communications.uwo.ca/comms/web_design/standards/" target="_blank">Web Standards</a> | 
+                <a href="https://communications.uwo.ca/comms/terms_of_use.html" target="_blank">Terms of Use</a>  | 
+                <a href="https://accessibility.uwo.ca/" target="_blank">Accessibility</a></p>
+								</div>
+								<!--end div grid_5-->
+								<div class="grid_2">
+									<span class="footernavtitles">Key Topics:</span><br/><br/><a href="about/index.html">About</a><br/><a href="home/index.html">Basics</a><br/><a href="instructors/index.html">Instructors</a><br/><a href="students/index.html">Students</a><br/><a href="contact_us/index.html">Contact Us</a><br/><a href="https://owl.uwo.ca/portal" target="_blank">OWL Login</a><br/>
+								</div>
+								<!--end div grid_2-->
+								<div class="grid_2">
+									
+								</div>
+								<!--end div grid_2-->
+								<div class="social-media">
+								    <div id="social-media-links">
+								        <a href="https://www.facebook.com/WesternUniversity" rel="noopener noreferrer" target="_blank" title="Facebook"><img alt="Western on Facebook" class="social-icon" height="32" src="https://www.uwo.ca/web_standards/img/social/svg/facebook.svg" width="32"/></a> <a href="https://instagram.com/westernuniversity" rel="noopener noreferrer" target="_blank" title="Instagram"><img alt="Instagram icon" class="social-icon" height="32" src="https://www.uwo.ca/web_standards/img/social/svg/instagram.svg" width="32"/></a> <a href="https://www.youtube.com/user/westernuniversity" rel="noopener noreferrer" target="_blank" title="YouTube"><img alt="Western on YouTube" class="social-icon" height="32" src="https://www.uwo.ca/web_standards/img/social/svg/youtube1.svg" width="32"/></a> <a href="https://www.linkedin.com/school/166689/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn icon" class="social-icon" height="32" src="https://www.uwo.ca/web_standards/img/social/svg/linkedin.svg" width="32"/></a> <a href="https://weibo.com/westerninternational" rel="noopener noreferrer" target="_blank"><img alt="Weibo icon" class="social-icon" height="32" src="https://www.uwo.ca/web_standards/img/social/svg/weibo.svg" width="32"/></a>
+							        </div>
+							        	<div class="footer-logos">
+									<a href="https://www.uwo.ca" rel="noopener" target="_blank" title="Western Home Page"> <img alt="Western University Crest" src="https://www.uwo.ca/img/homepage/2017/logo-western-crest-ftr.svg" style="width: 80px; float: right;"/> </a>
+								</div>
+								</div>
+							
+								<!--end div grid_2-->
+							</div>
+						</div>
+						<!--end div contact-content-->
+						<!--end div grid_12-->
+						<div class="clear"></div>
+					</div>
+					<!--end div container_12-->
+					<div class="clear"></div>
+					<script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/jquery-3.2.1.min.js" type="text/javascript"></script>
+                    <script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/jquery-ui.min.js" type="text/javascript"></script>
+	                <script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/flexslider/jquery.flexslider-min.js" type="text/javascript"></script>
+	                <script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/jquery.client.js" type="text/javascript"></script>
+	                <script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+	                <script language="javascript" src="https://www.uwo.ca/web_standards/js-2017/scripts-responsive-2017.js" type="text/javascript"></script>
+	
+					
+					
+					
+					
+					
+				</body>
+			</html>
